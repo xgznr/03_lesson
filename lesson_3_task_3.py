@@ -13,4 +13,4 @@ print(
     f"в {shipment.to_address.postal_code},"
     f"{shipment.to_address.city}, {shipment.to_address.street},"
     f"{shipment.to_address.house} - {shipment.to_address.flat}."
-    f"Стоимость {shipment.cost} рублей. ")
+    f"Стоимость {shipment.cost} рублей. ") #
